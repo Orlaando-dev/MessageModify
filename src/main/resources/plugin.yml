@@ -1,0 +1,6 @@
+name: MessageModify
+main: me.orlaando.messagemodify.Main
+version: 1.0
+author: Orlaando
+softdepend: [ProtocolLib]
+api-version: 1.15
